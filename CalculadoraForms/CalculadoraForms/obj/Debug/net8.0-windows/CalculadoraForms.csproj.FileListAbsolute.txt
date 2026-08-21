@@ -1,0 +1,17 @@
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.exe
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.deps.json
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.runtimeconfig.json
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.dll
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.pdb
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.Form1.resources
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.csproj.GenerateResource.cache
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.AssemblyInfoInputs.cache
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.AssemblyInfo.cs
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.sourcelink.json
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.dll
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\refint\CalculadoraForms.dll
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.pdb
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.genruntimeconfig.cache
+C:\Users\vennu\OneDrive\Desktop\CapacitacionPruebas\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\ref\CalculadoraForms.dll
