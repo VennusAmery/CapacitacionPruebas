@@ -38,23 +38,26 @@
             txtA = new TextBox();
             txtB = new TextBox();
             cmbOp = new ComboBox();
+            btnLimpiar = new Button();
             SuspendLayout();
             // 
             // btnCalcular
             // 
+            btnCalcular.BackColor = Color.DarkGoldenrod;
+            btnCalcular.ForeColor = SystemColors.ButtonHighlight;
             btnCalcular.Location = new Point(187, 194);
             btnCalcular.Name = "btnCalcular";
             btnCalcular.Size = new Size(94, 29);
             btnCalcular.TabIndex = 0;
             btnCalcular.Text = "Calcular";
-            btnCalcular.UseVisualStyleBackColor = true;
-            btnCalcular.UseVisualStyleBackColor = true;
+            btnCalcular.UseVisualStyleBackColor = false;
             btnCalcular.Click += btnCalcular_Click;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 22.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = SystemColors.ButtonHighlight;
             label1.Location = new Point(88, 25);
             label1.Name = "label1";
             label1.Size = new Size(228, 50);
@@ -64,6 +67,7 @@
             // label2
             // 
             label2.AutoSize = true;
+            label2.ForeColor = Color.White;
             label2.Location = new Point(46, 90);
             label2.Name = "label2";
             label2.Size = new Size(88, 20);
@@ -73,6 +77,7 @@
             // label3
             // 
             label3.AutoSize = true;
+            label3.ForeColor = Color.White;
             label3.Location = new Point(46, 127);
             label3.Name = "label3";
             label3.Size = new Size(47, 20);
@@ -82,6 +87,7 @@
             // label4
             // 
             label4.AutoSize = true;
+            label4.ForeColor = Color.White;
             label4.Location = new Point(46, 164);
             label4.Name = "label4";
             label4.Size = new Size(93, 20);
@@ -91,6 +97,7 @@
             // label5
             // 
             label5.AutoSize = true;
+            label5.ForeColor = Color.White;
             label5.Location = new Point(46, 242);
             label5.Name = "label5";
             label5.Size = new Size(75, 20);
@@ -100,6 +107,7 @@
             // lblResultado
             // 
             lblResultado.AutoSize = true;
+            lblResultado.ForeColor = Color.White;
             lblResultado.Location = new Point(232, 242);
             lblResultado.Name = "lblResultado";
             lblResultado.Size = new Size(26, 20);
@@ -128,11 +136,25 @@
             cmbOp.Size = new Size(151, 28);
             cmbOp.TabIndex = 9;
             // 
+            // btnLimpiar
+            // 
+            btnLimpiar.BackColor = Color.DarkGoldenrod;
+            btnLimpiar.ForeColor = Color.White;
+            btnLimpiar.Location = new Point(274, 302);
+            btnLimpiar.Name = "btnLimpiar";
+            btnLimpiar.Size = new Size(94, 29);
+            btnLimpiar.TabIndex = 10;
+            btnLimpiar.Text = "Limpiar";
+            btnLimpiar.UseVisualStyleBackColor = false;
+            btnLimpiar.Click += btnLimpiar_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Tan;
             ClientSize = new Size(380, 343);
+            Controls.Add(btnLimpiar);
             Controls.Add(cmbOp);
             Controls.Add(txtB);
             Controls.Add(txtA);
@@ -145,6 +167,7 @@
             Controls.Add(btnCalcular);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -161,5 +184,6 @@
         private TextBox txtA;
         private TextBox txtB;
         private ComboBox cmbOp;
+        private Button btnLimpiar;
     }
 }

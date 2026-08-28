@@ -41,5 +41,18 @@ namespace CalculadoraForms
 
             lblResultado.Text = $"Resultado: {resultado}";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            txtA.Clear();
+            txtB.Clear();
+            cmbOp.SelectedIndex = 0;
+            lblResultado.Text = "lbl";
+        }
     }
 }
